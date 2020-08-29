@@ -1,0 +1,25 @@
+Instructor Ani Adhikari posted a new Note. Your instructor selected to notify everyone in real time of this post, bypassing user email preferences.
+
+Summary of Class Performance
+
+I have submitted course grades to CalCentral. The final exam will be released on Gradescope shortly.
+
+As with all my finals, there will be no regrades nor detailed solutions. Instead we have put together a list of hints and common errors for you to compare with your answers. Have another go at the questions you missed.
+
+Here is a summary of class performance. Please don't ask course staff for more details about grades – they don't have any. I too will not go into more detail; in particular, I will not discuss how far you were from the next higher grade. Points on the final exam and letter grades for the course were assigned generously and it's time to focus on the future.
+
+Letter Grades There are 207 students enrolled and 201 of them took the final. The composite scores of those 201 students were calculated using the weights and drops listed in the course description. These composite scores range from about 11 to about 96.5, with a median of 65.25.
+
+As discussed in class, letter grades are based on the distribution of overall scores, consistent with recommended distributions of Stat upper division grades and taking into account where this term's distribution has gaps. The upshot is that about 60% of the class got A's and B's, equally split between the two grades.
+
+I have always treated A+ grades as very special, earned by students whose work makes me say, "Wow!". Congratulations to the two A+ students this term. Your performance was consistently outstanding. Wow!
+
+Final Exam Scores The median on the final is 47. For comparison, the median on the midterm was 54. The distribution of final exam scores peaks at around 50 and falls off roughly symmetrically on both sides. The exam spread the class out: the scores range from the single digits to 96.
+
+The Midterm and the Final
+The scatter diagram of midterm and final scores looks roughly bivariate normal and the correlation is 0.8. That's the highest correlation between midterm and final scores in my classes in several semesters.
+
+
+It feels as though it was ages ago that I started the class with the birthday problem. You've come a long way since then. Most of you have worked consistently hard throughout the term, and almost everyone put in a lot of effort preparing for the final exam. Your grades are a testament to your diligence and talent.
+
+You've earned a rest! Enjoy the summer!
